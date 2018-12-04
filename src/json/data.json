@@ -1,0 +1,63 @@
+{
+    "banner": [
+        "1.jpg",
+        "2.jpg",
+        "3.jpg",
+        "4.jpg"
+    ],
+    "list": [{
+        "img": "5.jpg",
+        "tit": "纯正商业级应用-微信小程序开发",
+        "price": 366,
+        "difficulty": "中级",
+        "people": 1476
+    }, {
+        "img": "5.jpg",
+        "tit": "纯正商业级应用-微信小程序开发",
+        "price": 366,
+        "difficulty": "中级",
+        "people": 1476
+    }, {
+        "img": "5.jpg",
+        "tit": "纯正商业级应用-微信小程序开发",
+        "price": 366,
+        "difficulty": "中级",
+        "people": 1476
+    }, {
+        "img": "5.jpg",
+        "tit": "纯正商业级应用-微信小程序开发",
+        "price": 366,
+        "difficulty": "中级",
+        "people": 1476
+    }, {
+        "img": "5.jpg",
+        "tit": "纯正商业级应用-微信小程序开发",
+        "price": 366,
+        "difficulty": "中级",
+        "people": 1476
+    }, {
+        "img": "5.jpg",
+        "tit": "纯正商业级应用-微信小程序开发",
+        "price": 366,
+        "difficulty": "中级",
+        "people": 1476
+    }, {
+        "img": "5.jpg",
+        "tit": "纯正商业级应用-微信小程序开发",
+        "price": 366,
+        "difficulty": "中级",
+        "people": 1476
+    }, {
+        "img": "5.jpg",
+        "tit": "纯正商业级应用-微信小程序开发",
+        "price": 366,
+        "difficulty": "中级",
+        "people": 1476
+    }, {
+        "img": "5.jpg",
+        "tit": "纯正商业级应用-微信小程序开发",
+        "price": 366,
+        "difficulty": "中级",
+        "people": 1476
+    }]
+}
